@@ -28,7 +28,6 @@ Long vowels are diffentiated by acute ($/acute$) sign.
 | y            | /i/        | इ                     |
 | ý            | /iː/       | ई                     |
 
-
 ### Consonants
 
 Some of the consonants come in two forms hard and soft. "Hook" sign means soft.
